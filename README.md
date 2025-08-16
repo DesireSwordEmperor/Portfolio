@@ -25,6 +25,7 @@ In my role at Team CiPHER, I focused on designing and analyzing mechanical assem
 # Skills
 <ul>
 <li>Autodesk Fusion 360</li>
+<li>Product Design</li>
 <li>Mechanical Assembly</li>
 <li>Prompt Engineering</li>
 </ul>
