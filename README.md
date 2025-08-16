@@ -1,11 +1,15 @@
 # Name
-**Sameer Patwardhan**
+<div align="center">
+<h3>Sameer Patwardhan</h3><br>
+<img src="Sameer.jpg" alt="Profile Photo" height="250" width="250">
+<br></div>
 
 # Job Role <!--(Where I see myself in Future)-->
 Robotic Analyst
 
 # Education
-**B.Tech Automation and Robotics Engineering** <br>
+**B.Tech** <br>
+**Automation and Robotics Engineering** <br>
 2024 - 2028 <br>
 JSPM's Rajarshi Shahu College of Engineering
 
