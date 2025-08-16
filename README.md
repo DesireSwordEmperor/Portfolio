@@ -12,5 +12,10 @@ Robotic Analyst
 
 # Skills
 Autodesk Fusion 360
+Mechanical Assembly
+Prompt Engineering
 
-# LinkedIn Profile
+## Contact Me
+<a href="https://www.linkedin.com/in/sameerpatwardhan5/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
+</a>
