@@ -25,6 +25,6 @@ JSPM's Rajarshi Shahu College of Engineering
 
 
 ## Contact Me
-<a href="https://www.linkedin.com/in/sameerpatwardhan5/">
+<a href="https://www.linkedin.com/in/sameerpatwardhan11/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
 </a>
