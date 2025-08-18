@@ -5,7 +5,7 @@
 <br></div>
 
 # Job Role <!--(Where I see myself in Future)-->
-Robotic Analyst
+Robotic Analyst and Enthusiast
 
 # Education
 **B.Tech** <br>
@@ -24,12 +24,11 @@ In my role at Team CiPHER, I focused on designing and analyzing mechanical assem
 
 # Skills
 <ul>
-<li>Autodesk Fusion 360</li>
-<li>Product Design</li>
+<li>Autodesk Fusion 360</li> <a href="">View Certificate</a>
+<li>Product Design</li> <a href="">View Certificate</a>
 <li>Mechanical Assembly</li>
-<li>Prompt Engineering</li>
+<li>Prompt Engineering</li> <a href="Prompt Engineering">View Certificate</a>
 </ul>
-
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/sameerpatwardhan11/">
