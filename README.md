@@ -17,7 +17,7 @@ JSPM's Rajarshi Shahu College of Engineering
 "Turning ideas into reality by blending Design, Programming, and AI. Skilled in **Fusion 360**, Prompt Engineering, and Mechanical Assembly. As a **Mechanical Team Member** at **Team CiPHER**, I contribute to **CAD design**, **analysis**, and prototyping. Passionate about integrating AI/ML with mechanical and software systems to build innovative, high-performance solutions."
 
 # Experience
-<b><u>Mechanical Team Member</u></b> <br>
+<b><u>Mechanical Team Member [Design and Analysis]</u></b> <br>
 <b><i>@ Team CiPHER</i></b> <br>
 <i>April 2025 - Present</i> <br>
 -Focused on designing and analyzing mechanical assemblies using CAD Software: Autodesk Fusion 360
