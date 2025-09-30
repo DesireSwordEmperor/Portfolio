@@ -20,7 +20,13 @@ JSPM's Rajarshi Shahu College of Engineering
 <b><u>Mechanical Team Member</u></b> <br>
 <b><i>@ Team CiPHER</i></b> <br>
 <i>April 2025 - Present</i> <br>
-In my role at Team CiPHER, I focused on designing and analyzing mechanical assemblies using Autodesk Fusion 360. My passion for mechanical design drove me to create innovative solutions that improved project outcomes. I collaborated closely with team members to ensure high-quality results and fostered a culture of creativity and efficiency.
+-Focused on designing and analyzing mechanical assemblies using CAD Software: Autodesk Fusion 360
+
+-High passion for mechanical design drove to create innovative solutions that improved project outcomes.
+
+-Used PDE ToolBox of MATLAB for Finite Element Analysis of the projects
+
+-Collaborated closely with team members to ensure high-quality results and fostered a culture of creativity and efficiency.
 
 # Skills
 <ul>
