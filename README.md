@@ -32,7 +32,7 @@ JSPM's Rajarshi Shahu College of Engineering
 <ul>
 <li>Autodesk Fusion 360</li><a href="">View Certificate</a>
 <li>Product Design</li><a href="">View Certificate</a>
-<li>Mechanical Assembly</li>
+<li>Finite Element Analysis</li>
 <li>Prompt Engineering</li><a href="Prompt Engineering.pdf">View Certificate</a>
 </ul>
 
